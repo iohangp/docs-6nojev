@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-uskwy4.gulfgottalents.com/sitemap.xml
